@@ -16,7 +16,7 @@ let secret = "c5xfwhd80p";
 let domain = "https://myapphehe.bubbleapps.io/version-test/sukses_page?debug_mode=true";
 let callback = "/callback";
 
-// Instantiate OAuth object
+// Instantiate OAuth object O
 let oa = new oauth.OAuth(
   "https://openapi.etsy.com/v2/oauth/request_token",
   "https://openapi.etsy.com/v2/oauth/access_token",
